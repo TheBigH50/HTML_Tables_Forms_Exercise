@@ -32,19 +32,6 @@ td {
   text-align: center;
 }
 
-form {
-  max-width: 600px;
-  min-width: 550px;
-  width: 100%;
-  margin: 20px auto;
-  text-align: center;
-
-  background-color: #222222;
-  color: #eeeeee;
-  font-size: 22px;
-  font-weight: bolder;
-}
-
 button {
   border: 2px solid #eeeeee;
   border-radius: 25px;
@@ -77,3 +64,16 @@ input {
   font-size: 30px;
   font-weight: bolder;
 }
+
+#form1 {
+    max-width: 600px;
+    min-width: 550px;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+  
+    background-color: #222222;
+    color: #eeeeee;
+    font-size: 22px;
+    font-weight: bolder;
+  }
